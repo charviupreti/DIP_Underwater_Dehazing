@@ -19,6 +19,8 @@ This repository contains all the essential documents and files for the research 
 - README.md: This file serves as an overview of the project and its contents.
 
 ### Dataset
+UIEB includes two subsets: 890 raw underwater images with corresponding high-quality reference images; 60 challenging underwater images.
+
 
 - [Raw Dataset](https://drive.google.com/file/d/12W_kkblc2Vryb9zHQ6BfGQ_NKUfXYk13/view)
 
